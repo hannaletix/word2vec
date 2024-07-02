@@ -1,0 +1,21 @@
+# Ignore arquivos do ambiente virtual
+myenv/
+
+# Ignore arquivos compilados Python
+*.pyc
+__pycache__/
+
+# Ignore checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignore outros ambientes virtuais
+venv/
+env/
+
+# Ignore arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
